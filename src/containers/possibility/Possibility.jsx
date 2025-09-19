@@ -19,7 +19,9 @@ const Possibility = () => {
           alteration boisterous the attachment. Party we years to order allow
           asked of.
         </p>
-        <h4>Request Early Access to Get Started &#10230;</h4>
+        <h4 className="hover-underline">
+          Request Early Access to Get Started &#8599;
+        </h4>
       </div>
     </div>
   );

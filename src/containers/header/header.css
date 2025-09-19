@@ -67,6 +67,10 @@
   border: none;
 }
 
+.gpt3__header-content__input button:hover {
+  background: #ff603d;
+}
+
 .gpt3__header-content__people {
   width: 100%;
   display: flex;

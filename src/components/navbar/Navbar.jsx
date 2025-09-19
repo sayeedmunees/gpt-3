@@ -14,19 +14,29 @@ const Navbar = () => {
         </div>
         <div className="gpt3__navbar-links_container">
           <p>
-            <a href="#home">Home</a>
+            <a className="hover-underline" href="#home">
+              Home
+            </a>
           </p>
           <p>
-            <a href="#wgpt3">What is GPT3?</a>
+            <a className="hover-underline" href="#wgpt3">
+              What is GPT3?
+            </a>
           </p>
           <p>
-            <a href="#possibility">Open AI</a>
+            <a className="hover-underline" href="#possibility">
+              Open AI
+            </a>
           </p>
           <p>
-            <a href="#features">Case Studies</a>
+            <a className="hover-underline" href="#features">
+              Case Studies
+            </a>
           </p>
           <p>
-            <a href="#blog">Library</a>
+            <a className="hover-underline" href="#blog">
+              Library
+            </a>
           </p>
         </div>
       </div>

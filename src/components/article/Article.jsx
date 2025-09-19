@@ -12,7 +12,7 @@ const Article = ({ imgURL, date, title }) => {
           <p>{date}</p>
           <h3>{title}</h3>
         </div>
-        <a href="#">Read Full Article</a>
+        <a href="#">Read Full Article &#8599;</a>
       </div>
     </div>
   );
