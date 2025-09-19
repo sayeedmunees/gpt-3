@@ -50,6 +50,12 @@
   color: var(--color-text);
 }
 
+.gpt3__header-content__input input:focus {
+  box-shadow: -10px 0px 50px -15px rgba(255, 255, 255, 0.25);
+  -webkit-box-shadow: -10px 0px 50px -15px rgba(255, 255, 255, 0.25);
+  -moz-box-shadow: -10px 0px 50px -15px rgba(255, 255, 255, 0.25);
+}
+
 .gpt3__header-content__input button {
   flex: 0.6;
   width: 100%;
